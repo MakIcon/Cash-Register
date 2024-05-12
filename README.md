@@ -16,4 +16,5 @@
 
 # Test
 
-![2024-05-12-11-45-43](https://github.com/MakIcon/Cash-Register/assets/130914704/901e9c3c-8d9e-4e78-8f2a-171ff908e165)
+
+![0512](https://github.com/MakIcon/Cash-Register/assets/130914704/6f0aaeca-4dd8-4074-83c0-86e4ce841bbf)
